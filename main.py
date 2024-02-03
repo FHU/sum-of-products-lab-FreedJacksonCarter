@@ -10,7 +10,7 @@ def sum_of_products(list1, list2):
         listSum += list1[i] * list2[i]
     return listSum
         
-
+#redoing submission to MAKE SURE FORK IS FIXED
 
 if __name__ == '__main__':
     #splitting the lists into strings
