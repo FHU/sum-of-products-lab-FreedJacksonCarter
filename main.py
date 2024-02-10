@@ -11,7 +11,7 @@ def sum_of_products(list1, list2):
     return listSum
         
 #redoing submission to MAKE SURE FORK IS FIXED
-
+#hopefully this all submits correctly
 if __name__ == '__main__':
     #splitting the lists into strings
     list1 = input().split()
